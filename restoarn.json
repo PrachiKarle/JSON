@@ -1,0 +1,45 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "username": "ABC",
+      "email": "abc@gmail.com",
+      "pass": "abcOrder",
+      "Login": false,
+      "Booking": [
+       
+        {
+          "date": "2024-05-26",
+          "time": "14:00",
+          "num": "2",
+          "req": "Bruger"
+        },
+        {
+          "date": "2024-05-26",
+          "time": "17:04",
+          "num": "2",
+          "req": "Paneer"
+        }
+      ],
+      "Contact": []
+    },
+    {
+      "mail": "xyz@gmail.com",
+      "username": "xyz",
+      "pass": "ihcarp23@#",
+      "id": 2,
+      "Login": false,
+      "Booking": [],
+      "Contact": []
+    },
+    {
+      "mail": "pqr@gmail.com",
+      "username": "PQR",
+      "pass": "pqr@23",
+      "id": 4,
+      "Login": false,
+      "Booking": [],
+      "Contact": []
+    }
+  ]
+}
